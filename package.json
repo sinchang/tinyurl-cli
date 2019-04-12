@@ -1,0 +1,29 @@
+{
+  "name": "tinyurl-cli",
+  "version": "1.0.0",
+  "description": "a cli for TinyURL",
+  "main": "index.js",
+  "bin": {
+    "tinyurl": "index.js"
+  },
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sinchang/tinyurl-cli.git"
+  },
+  "keywords": [
+    "TinyURL",
+    "cli"
+  ],
+  "author": "sinchang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sinchang/tinyurl-cli/issues"
+  },
+  "homepage": "https://github.com/sinchang/tinyurl-cli#readme",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "clipboardy": "^2.0.0",
+    "turl": "^1.1.2"
+  }
+}
