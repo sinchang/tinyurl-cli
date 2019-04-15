@@ -1,6 +1,6 @@
 # TinyURL CLI
 
-## Use
+## Usage
 
 ```
 npm i -g tinyurl-cli
